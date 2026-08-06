@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mdism\\OneDrive\\Documents\\KOI\\S3\\Lab-Activity-Week6\\week 6 bi-weekly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89020681-F902-4DEE-8DE1-542755F10220}|week 6 bi-weekly.csproj|c:\\users\\mdism\\onedrive\\documents\\koi\\s3\\lab-activity-week6\\week 6 bi-weekly\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89020681-F902-4DEE-8DE1-542755F10220}|week 6 bi-weekly.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89020681-F902-4DEE-8DE1-542755F10220}|week 6 bi-weekly.csproj|c:\\users\\mdism\\onedrive\\documents\\koi\\s3\\lab-activity-week6\\week 6 bi-weekly\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89020681-F902-4DEE-8DE1-542755F10220}|week 6 bi-weekly.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mdism\\OneDrive\\Documents\\KOI\\S3\\Lab-Activity-Week6\\week 6 bi-weekly\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mdism\\OneDrive\\Documents\\KOI\\S3\\Lab-Activity-Week6\\week 6 bi-weekly\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-06T14:07:03.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mdism\\OneDrive\\Documents\\KOI\\S3\\Lab-Activity-Week6\\week 6 bi-weekly\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mdism\\OneDrive\\Documents\\KOI\\S3\\Lab-Activity-Week6\\week 6 bi-weekly\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:55:33.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

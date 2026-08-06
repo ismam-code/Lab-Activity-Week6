@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = ViewBag.Title;
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewBag.WelcomeMessage</h1>
+    <p>ICT272 - Week 6 Bi-Weekly Task Submission</p>
+</div>
+
+<hr />
+
+<h3>Key Topics Implemented:</h3>
+<ul>
+    @foreach (var topic in ViewBag.Topics)
+    {
+        <li>@topic</li>
+    }
+</ul>

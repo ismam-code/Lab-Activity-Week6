@@ -1,0 +1,99 @@
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.AssemblyInfoInputs.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.AssemblyInfo.cs
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.csproj.CoreCompileInputs.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.RazorAssemblyInfo.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.RazorAssemblyInfo.cs
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.sourcelink.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\appsettings.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.staticwebassets.runtime.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.staticwebassets.endpoints.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.exe
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.deps.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.runtimeconfig.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.dll
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\bin\Debug\net10.0\week 6 bi-weekly.pdb
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\scopedcss\bundle\week 6 bi-weekly.styles.css
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\scopedcss\projectbundle\week 6 bi-weekly.bundle.scp.css
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\giu0vbkpkd-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\9dvky9cn7b-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\ksjf3pvudj-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\jw1yqwh4s2-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\fh6ldy0sae-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\rnms4y72hu-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\1j4htwzcav-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\9fueli6qqx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\nyl5goi8eh-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\9jxgsbbru0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\p2v743ftmm-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\vtwih14krb-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\16twx7phww-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\vvwg8ow94m-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\w1dzqtubro-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\qmdvvbt19x-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\g5fp1lldru-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\g0mzyvnnoa-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\c3l8tm74gk-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\8hxg2lwq6u-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\nvbowyl167-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\y7efj7q64z-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\ml34ooygao-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\xo89c28amb-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\8gi2oj89vh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\ui7dqcckdo-{0}-06098lyss8-06098lyss8.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\km1u79gt1s-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\l9pjghi1g7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\xyimuvv50v-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\848xw6forx-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\mbxd3xa5bm-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\lzgb6a2bss-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\lzhgyzc4fo-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\ebiavfllgd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\dhvp157kcn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\dzn3f2u0t8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\pwgfvhpbu1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\tahlnzng85-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\r3makqtu0e-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\nkv1dbknoz-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\zb787ab64h-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\jwrxu0zwtm-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\2rkbd8vwxu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\v8rq5vtle6-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\ymzy0mjnh7-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\iy84s9pzzj-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\rcsn9dixeo-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\lge5lzn3hk-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\q1cdr8ptja-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\7c55bnaa1m-{0}-356vix0kms-356vix0kms.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\ir1o3ivg2k-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\0pow3ujzny-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\vyh2niencs-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\1u58zqhk8g-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\j63jmnhf2r-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\lpocas8tsl-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\uohvwutgpi-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\3hibtht8cy-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\r37cbies4o-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\eeutznibxf-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\0d72be3erx-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\94bj5ot22p-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\siep62dmjn-{0}-cnseogshk2-cnseogshk2.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\compressed\hhcezop78n-{0}-cnseogshk2-cnseogshk2.gz
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.dll
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\refint\week 6 bi-weekly.dll
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.pdb
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\week 6 bi-weekly.genruntimeconfig.cache
+C:\Users\mdism\OneDrive\Documents\KOI\S3\Lab-Activity-Week6\week 6 bi-weekly\obj\Debug\net10.0\ref\week 6 bi-weekly.dll
